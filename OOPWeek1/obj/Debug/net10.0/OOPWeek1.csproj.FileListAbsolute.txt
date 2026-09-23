@@ -1,0 +1,14 @@
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/bin/Debug/net10.0/OOPWeek1
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/bin/Debug/net10.0/OOPWeek1.deps.json
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/bin/Debug/net10.0/OOPWeek1.runtimeconfig.json
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/bin/Debug/net10.0/OOPWeek1.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/bin/Debug/net10.0/OOPWeek1.pdb
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.AssemblyInfoInputs.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.AssemblyInfo.cs
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.csproj.CoreCompileInputs.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/refint/OOPWeek1.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.pdb
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/OOPWeek1.genruntimeconfig.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week1/JetBrains/OOPWeek1/OOPWeek1/obj/Debug/net10.0/ref/OOPWeek1.dll
